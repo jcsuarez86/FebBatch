@@ -29,7 +29,7 @@ public class Math {
 		int subt1 = subt(sum2, 2);
 		int mul1 = multi(subt1, 2);
 		int finalAssig1 = div(mul1, 2);
-		System.out.println("resutl of assigment1: "+finalAssig1);
+		System.out.println("Resutl of assigment1: "+finalAssig1);
 		System.out.println("**************************************");
 	}
 	public void assigment2(){
@@ -39,7 +39,7 @@ public class Math {
 		int sum3 = sum(subt2, 2);
 		int subt3 = subt(sum3, 2);
 		int finalAssig2 = multi(subt3,2);
-		System.out.println("resutl of assigment2: "+finalAssig2);
+		System.out.println("Resutl of assigment2: "+finalAssig2);
 		System.out.println("**************************************");
 	}
 	public static void main(String[] args) {
